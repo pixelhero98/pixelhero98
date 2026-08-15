@@ -11,4 +11,4 @@ I am a Computer Science PhD candidate at the University of Bristol, leading mode
 - **[Diffusion-to-Flow Schedule Transfer](https://github.com/pixelhero98/Diffusion-Flow-Inference)** — controlled transfer and evaluation of diffusion schedules in normalized flow time.
 - **[AuditOps](https://github.com/pixelhero98/AuditOps)** — public foundations for canonical evidence, deterministic validation, and restricted-domain audit benchmarks.
 
-[Portfolio](https://zinuoyou.com) · [Google Scholar](https://scholar.google.com/citations?user=ck7JGfgAAAAJ&hl=en) · [Email](mailto:zinuo.you@bristol.ac.uk)
+[Portfolio](https://pixelhero98.github.io) · [Google Scholar](https://scholar.google.com/citations?user=ck7JGfgAAAAJ&hl=en) · [Email](mailto:zinuo.you@bristol.ac.uk)
