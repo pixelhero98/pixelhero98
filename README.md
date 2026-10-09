@@ -1,6 +1,6 @@
 # Zinuo (Henry) You
 
-Generative systems researcher working on **video and world models**, **efficient generative inference**, and **continuous-time learning**.
+Generative systems researcher working on **efficient generative inference**, **continuous-time learning**, **sequence modelling**, and **video/world models**.
 
 I am a Computer Science PhD candidate at the University of Bristol, leading modelling research and implementation across UKRI-funded projects. My work connects mathematical formulation, large-scale evaluation, and release-quality research software.
 
