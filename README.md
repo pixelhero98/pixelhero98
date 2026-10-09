@@ -6,7 +6,7 @@ I am a Computer Science PhD candidate at the University of Bristol, leading mode
 
 ## Selected work
 
-- **[GenODE / GICO](https://github.com/pixelhero98/GenODE-Inference)** — context-conditioned integration clocks for frozen generative ODE and flow-matching backbones.
+- **[GenODE Inference Optimization](https://github.com/pixelhero98/GenODE-Inference)** — context-conditioned inference clocks for frozen generative ODE and flow-matching backbones.
 - **[Latent Laplace Diffusion](https://github.com/pixelhero98/LLapDiffusion)** — parallel generative forecasting over irregular timestamps; ICML 2026 Spotlight.
 - **[Finite-time Operator Transport](https://github.com/pixelhero98/Bridge-Inference-Optimization)** — unified operator and terminal objective for generative model policy optimization and reduced-step distillation.
 - **[AuditOps](https://github.com/pixelhero98/AuditOps)** — public foundations for canonical evidence, deterministic validation, and restricted-domain audit agents.
